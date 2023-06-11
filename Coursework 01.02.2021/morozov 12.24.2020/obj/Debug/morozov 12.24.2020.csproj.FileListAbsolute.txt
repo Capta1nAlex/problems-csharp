@@ -1,0 +1,30 @@
+C:\Users\Alex\source\repos\morozov 12.24.2020\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe.config
+C:\Users\Alex\source\repos\morozov 12.24.2020\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe
+C:\Users\Alex\source\repos\morozov 12.24.2020\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.pdb
+C:\Users\Alex\source\repos\morozov 12.24.2020\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form1.resources
+C:\Users\Alex\source\repos\morozov 12.24.2020\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Properties.Resources.resources
+C:\Users\Alex\source\repos\morozov 12.24.2020\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\morozov 12.24.2020\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\morozov 12.24.2020\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.exe
+C:\Users\Alex\source\repos\morozov 12.24.2020\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.pdb
+C:\Users\Alex\source\repos\morozov 12.24.2020\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1)\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe.config
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1)\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1)\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.pdb
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1)\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1)\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form1.resources
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1)\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Properties.Resources.resources
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1)\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1)\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1)\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.exe
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1)\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.pdb
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1) - Copy\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe.config
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1) - Copy\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1) - Copy\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.pdb
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1) - Copy\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1) - Copy\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form1.resources
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1) - Copy\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Properties.Resources.resources
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1) - Copy\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1) - Copy\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1) - Copy\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.exe
+C:\Users\Alex\source\repos\morozov 12.24.2020 (1) - Copy\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.pdb

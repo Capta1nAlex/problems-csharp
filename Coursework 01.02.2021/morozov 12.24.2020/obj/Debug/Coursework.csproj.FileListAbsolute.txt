@@ -1,0 +1,45 @@
+C:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe.config
+C:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe
+C:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.pdb
+C:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form1.resources
+C:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Properties.Resources.resources
+C:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.exe
+C:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.pdb
+F:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe.config
+F:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe
+F:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.pdb
+F:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csprojAssemblyReference.cache
+F:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form1.resources
+F:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Properties.Resources.resources
+F:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csproj.GenerateResource.cache
+F:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+F:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.exe
+F:\Users\Alex\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.pdb
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe.config
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.pdb
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csprojAssemblyReference.cache
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form1.resources
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form2.resources
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Properties.Resources.resources
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.exe
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.pdb
+C:\Users\A\source\repos\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form3.resources
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe.config
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.exe
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\bin\Debug\morozov 12.24.2020.pdb
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form1.resources
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form2.resources
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Form3.resources
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov_12._24._2020.Properties.Resources.resources
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.exe
+C:\Users\Alex\Downloads\Coursework 01.02.2021\morozov 12.24.2020\obj\Debug\morozov 12.24.2020.pdb
