@@ -1,17 +1,2 @@
 This project was made in the Visual studio IDE, using the C# language.
 It models coin movement on a rotating disk. 
-
-How to open:
-You can start this program by opening "buildFinal.exe". Next to it click on highlighted button "Програма", it'll open a new form, with the button "Rotation", which will start modeling.
-If rotation doesn't happen change all "." to "," (E.g. change value of μ from "0.5" to "0,5", value of w from "0.05" to "0,05", e.t.c.)
-
-In order to see the code, I recommend using Visual Studio, which I originally used, but perhaps it's not as useful, 
-because I can't find classification, which means it's a bit problematic to make useful commentaries regarding code itself.
-
-Known problems: 
------ Interface is available only on Ukrainian language. 
------ If rotation doesn't happen try to change all "." in starting values to "," (E.g. change value of μ from "0.5" to "0,5", value of w from "0.05" to "0,05", e.t.c.)
-This problem happens due to regional settings, since some regions use symbol '.' in order to separate numbers, while other use ','. 
-Since originally I made this as a school project, knowing the time zone and settings of computers in it, I decided to not change it. 
-
-If you ask me, I'll make an update later on, but for now I'm uploading it there as I did it in 2021, and will continue working on other projects.
